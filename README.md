@@ -16,5 +16,7 @@ Presenter can use this hands-free application for navigating through presentatio
 We have used LPC coefficients and Hidden Markov Model for this application.
 # Team Members 
 Soumya Asati  (224101046) 
+
 Madhurima Sen (224101034)
+
 Vaishali Chaudhari (224101055) 
